@@ -1,6 +1,6 @@
 # Stellarator
 ### Cowrie Exchange API for depositing and withdrawing NGNT digital currency.
-[Cowrie Exchange](https://cowrie.exchange) is a cryptocurrency exchange that enables instant conversion between fiat money (Naira NGN) and cryptocurrency ([Stellar XLM](https://stellar.org))
+Cowrie Exchange API enables instant conversion between fiat money (Naira NGN) and digital currency.
 
 
 Cowrie Exchange acts as a bridge connecting any Nigerian bank account to any Stellar wallet.
